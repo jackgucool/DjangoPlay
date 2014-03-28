@@ -1,7 +1,7 @@
 __author__ = 'yiminggu'
 
 import MySQLdb
-
+## alittle bit change
 
 class mydb:
     host    =   "localhost"
