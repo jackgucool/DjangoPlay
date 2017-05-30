@@ -1,4 +1,4 @@
-__author__ = 'yiminggu'
+__author__ = 'yimingguuuuuuuu'
 
 class Bird:
 
